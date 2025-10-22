@@ -1,2 +1,3 @@
-# testrepo
-So this is my first testrepo for public issue
+# testRepo
+So this is my first testrepo for public using!
+
